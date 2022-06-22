@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saurabh-1729
-- 👀 I’m interested in Problem Solving/ Data Structures And Algorithms ans Web Development
+- 👀 I’m interested in Problem Solving/ Data Structures Algorithms and Web Development
 - 🌱 I’m currently learning Backend Technology
 - 📫 You can Reach me through ss1013188@gmail.com
 
